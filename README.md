@@ -4,7 +4,7 @@
 
 This project analyzes sales data from Amazon, providing actionable insights to support business decision-making. The dataset includes information on order transactions, product categories, fulfillment methods, sales channels, shipping details, and more. Through this analysis, we aim to optimize sales strategies, enhance customer satisfaction, and improve overall business performance.
 
-![Amazon Sales Analysis](path_to_your_image/joeg_image.jpg)
+![Amazon Sales Analysis](InnoBytes-Sevices/Screenshot (1750).png)
 
 ## Problem Statement
 
